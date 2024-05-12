@@ -11,4 +11,4 @@ The schema below represents the tables of the database, their attributes, and th
 In order to ensure and ease the maintainance of the database throughout the season, I have also created roles with specific perimeters of intervention, and dedicated functions/views/queries, all of which are detailed in the next sheets. 
 
 
-! [Tables] ([tables.png](https://github.com/Maet22/Portfolio-Project-Football-Team-Database/edit/main/tables.png))
+![Tables]([tables.png](https://github.com/Maet22/Portfolio-Project-Football-Team-Database/edit/main/tables.png))
